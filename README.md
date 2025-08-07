@@ -14,7 +14,6 @@
 
 - [📑 TODO](#todo)
 - [🏗️ 我们的诉求](#我们的诉求)
-- [🔧 论文主要问题](#论文主要问题) 
   - [💥 涉嫌造假](#涉嫌造假)  - 编造法律、数据造假、表格数据不符等
   - [📋 涉嫌抄袭剽窃](#涉嫌抄袭剽窃)  - 整段抄袭、无引用等
   - [❌ 数据错误](#数据错误)  - 年份错误、数量错误、常识性错误等  
@@ -910,7 +909,6 @@ c^f + c^m = (1+\alpha)(w^f + w^m - \phi b)
 
 - [📋 Action Items](#action-items)
 - [🏗️ Our Demands](#our-demands)
-- [🔧 Critical Academic Irregularities](#critical-academic-irregularities) 
   - [💥 Data Fabrication](#data-fabrication-and-falsification)  - Fabricated laws, falsified data, inconsistent tables
   - [📋 Suspected Plagiarism](#suspected-academic-plagiarism)  - Wholesale copying without attribution  
   - [❌ Factual and Computational Errors](#factual-and-computational-errors)  - Year errors, quantity errors, factual mistakes
